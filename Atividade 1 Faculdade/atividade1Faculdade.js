@@ -6,6 +6,3 @@ link1.textContent = "https://www.exemplo.com.br/";
 
 let imagem = document.getElementById("imagem");
 imagem.src = 'asset/paisagem.jpg.jpg'
-
-
-
